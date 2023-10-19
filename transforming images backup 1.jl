@@ -144,6 +144,14 @@ cu3 = 2u"mm"*3c
 # ╔═╡ 60d96467-51e6-42e2-9642-0524e995c216
 cu4 = c*oneunit(b)
 
+# ╔═╡ 300f7f58-00b7-40c2-86c4-91078db5647a
+md"""
+!!! note
+	**\ + tab_key** : mathematical symbols
+	
+	**.** : element-wise operation
+"""
+
 # ╔═╡ 2f7cde78-74a2-11eb-1e2f-81b5b2465819
 md"""
 # Reminder
@@ -1959,6 +1967,7 @@ version = "1.4.1+0"
 # ╠═9571ebac-e355-4a11-b9bd-c55c9ab06dd2
 # ╠═f922ed4e-b1f5-40fc-9614-a2061fc5ddff
 # ╟─60d96467-51e6-42e2-9642-0524e995c216
+# ╟─300f7f58-00b7-40c2-86c4-91078db5647a
 # ╟─2f7cde78-74a2-11eb-1e2f-81b5b2465819
 # ╟─e099815e-74a1-11eb-1541-033f6abe9f8e
 # ╟─e82a4dd8-74b0-11eb-1108-6b09e67a80c1
@@ -1977,6 +1986,7 @@ version = "1.4.1+0"
 # ╟─8711c698-7500-11eb-2505-d35a4de169b4
 # ╟─84350cb8-7501-11eb-095e-8f1a7e015f25
 # ╠═91a1bca4-74aa-11eb-3917-1dfd73d0ad9c
+# ╠═8e698bdc-7501-11eb-1d2e-c336ccbde0b0
 # ╠═ab2bc924-7501-11eb-03ba-8dfc1ffe3f36
 # ╟─e11d6300-7501-11eb-239a-135596309d20
 # ╟─9a66c07e-7503-11eb-3127-7fce91b3a24a
